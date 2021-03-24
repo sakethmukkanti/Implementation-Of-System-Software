@@ -17,4 +17,4 @@ Sample assembly language program is shown below
 
 The assembler produces the output object code shown below
 
-![alt text](./images/assembler_outpur.jpg)
+![alt text](./images/assembler_output.jpg)
