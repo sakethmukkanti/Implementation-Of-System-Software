@@ -14,3 +14,7 @@ The main function that any assembler must perform is translating mnemonic operat
 Sample assembly language program is shown below
 
 ![alt text](./images/assembler_input.jpg)
+
+The assembler produces the output object code shown below
+
+![alt text](./images/assembler_outpur.jpg)
