@@ -12,3 +12,5 @@ In this Project we implemented two system softwares for SIC/XE machine architect
 The main function that any assembler must perform is translating mnemonic operation codes to their machine language equivalents and assigning machine addresses to symbolic labels used by programmer. The assembler we implemented takes the assembler language program as input and generates the object code and writes into the output file in a format which contains header records and text records.
 
 Sample assembly language program is shown below
+
+![alt text](./images/assembler_input.jpg)
